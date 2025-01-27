@@ -27,7 +27,7 @@ Styless Proflis By ƊƛƧӇƁƠƛƦƊev
 > ### 🆕 Updates 
  
 ```PY 
- [+] Last update: 24/06/2023
+ [+] Last update: 27/01/2025
  [+] author: ƊƛƧӇƁƠƛƦƊ
  [+] owner: ƊƛƧӇƁƠƛƦƊ 
  ```
